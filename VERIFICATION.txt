@@ -1,0 +1,2 @@
+Validation: Ant resolved 38 dependency artifacts, compiled all 6 Java source files, and ran ant check successfully (3 tests passed).
+Browser tests were not executed in the generation environment because Chrome is not installed. Run ant smoke and ant test on your Windows machine.
